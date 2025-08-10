@@ -29,6 +29,6 @@ This repository contains various machine learning projects implemented using PyT
 
 ### Installation
 ```bash
-git clone https://github.com/your-username/pytorch_project.git
+git clone [https://github.com/your-username/pytorch_project.git](https://github.com/AmirBR996/PYTORCH_projects.git)
 cd pytorch_project
 # Install dependencies per project instructions
