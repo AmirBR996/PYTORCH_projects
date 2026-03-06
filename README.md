@@ -8,26 +8,26 @@ This repository demonstrates strong knowledge of neural network design, training
 ## 📂 Project Structure
 
 PYTORCH_projects/
-- Image Classification Projects/
+- Image Classification Projects
   - ANN_fashion_mnist_pytorch.ipynb
   - Fashion_mnist_using_vgg16.ipynb
   - image_classification_digit.ipynb
-- Time Series Forecasting/
+- Time Series Forecasting
   - Google_Stock_price_prediction.ipynb
   - GOOG.csv
-- NLP & Sequence Modeling/
+- NLP & Sequence Modeling
   - Next_Word_predictor_using_LSTM.ipynb
   - pytorch_lstm_next_word_predictor.ipynb
   - RNN-QA.ipynb
   - 100_Unique_QA_Dataset.csv
-- Regression Projects/
+- Regression Projects
   - Car_price_prediction.ipynb
   - Housing_using_ANN.ipynb
   - graduate_Addmission.ipynb
   - Housing.csv
   - movie_review_analysis.ipynb
   - movie.py
-- Utility Scripts/
+- Utility Scripts
   - glove.py
   - movie.py
 
